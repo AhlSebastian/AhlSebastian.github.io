@@ -179,6 +179,77 @@ a:hover {
     font-weight: 600;
 }
 
+.entry {
+    margin-bottom: 2.8rem;
+}
+
+.entry-title {
+    margin: 0;
+    font-size: 1.08rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+}
+
+.entry-meta {
+    margin: 0.35rem 0 0;
+    color: var(--muted);
+    font-size: 0.94rem;
+}
+
+.entry-coauthors {
+    margin: -0.05rem 0 0.65rem;
+    color: var(--muted);
+    font-size: 0.94rem;
+}
+
+.entry-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.35rem;
+    margin-top: 0.1rem;
+    font-size: 0.96rem;
+}
+
+details.abstract-toggle {
+    display: inline-block;
+}
+
+details.abstract-toggle summary {
+    display: inline;
+    cursor: pointer;
+    list-style: none;
+    color: var(--navy);
+    font-size: 0.96rem;
+    font-weight: 400;
+    line-height: inherit;
+}
+
+details.abstract-toggle summary::-webkit-details-marker {
+    display: none;
+}
+
+.divider {
+    color: var(--muted);
+}
+
+.abstract {
+    display: none;
+    flex-basis: 100%;
+    margin-top: 0.85rem;
+    max-width: 68ch;
+}
+
+details.abstract-toggle[open]~.abstract {
+    display: block;
+}
+
+
+.abstract p {
+    max-width: 68ch;
+    margin: 0 0 0.9rem;
+}
+
 .site-footer {
     border-top: 1px solid var(--border);
     padding: 1.25rem 0 2rem;
