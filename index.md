@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Home
+title: About
 permalink: /
+show_title: true
 ---
-
-# Sebastian Lukas Ahlstich
-
-PhD Fellow  
-Copenhagen Business School
 
 I am a PhD Fellow in Economics at Copenhagen Business School. My research focuses on international trade, preferential trade agreements, border processes, and applied microeconometric methods.
 

@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="container page">
-    {% unless page.permalink == "/" %}
+    {% if page.show_title != false %}
     <h1 class="page-title">{{ page.title }}</h1>
-    {% endunless %}
+    {% endif %}
     {{ content }}
 </div>
