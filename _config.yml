@@ -1,0 +1,12 @@
+title: Sebastian Lukas Ahlstich
+description: PhD Fellow at Copenhagen Business School
+url: "https://ahlsebastian.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
