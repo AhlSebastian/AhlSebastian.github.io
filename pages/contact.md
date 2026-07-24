@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 Email  
-YOUR.EMAIL@DOMAIN.COM
+your.email@domain.com
 
 Copenhagen Business School  
 Copenhagen, Denmark

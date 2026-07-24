@@ -4,14 +4,32 @@ title: Research
 permalink: /research/
 ---
 
-## Working papers
+## Current Working Papers
 
-Short descriptions of ongoing projects will go here.
+### Title of working paper
+Short abstract or one-sentence description.
+
+PDF · Code · Data · BibTeX
+
+---
+
+### Title of another working paper
+Short abstract or one-sentence description.
+
+PDF · Code · Data · BibTeX
 
 ## Publications
 
-Peer-reviewed publications will appear here when they are ready.
+Peer-reviewed publications will be listed here when they become available.
 
-## Policy & outreach
+## Public Writing
 
-Newspaper articles, practitioner pieces, and other non-peer-reviewed outputs.
+### Newspaper or practitioner article title
+Outlet · Date
+
+Read
+
+### Another article title
+Outlet · Date
+
+Read

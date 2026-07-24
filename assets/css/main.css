@@ -4,7 +4,19 @@
     --navy: #3b556e;
     --muted: #6d6d6d;
     --border: #ddd9d2;
+
     --max: 760px;
+
+    --font: "Inter", "Helvetica Neue", Arial, sans-serif;
+
+    --fs-body: 1rem;
+    --fs-nav: 0.96rem;
+    --fs-title: clamp(1.7rem, 2vw + 1rem, 2.15rem);
+    --fs-h2: 1.16rem;
+    --fs-h3: 1rem;
+
+    --lh-body: 1.72;
+    --lh-tight: 1.18;
 }
 
 html {
@@ -14,9 +26,9 @@ html {
 body {
     margin: 0;
     color: var(--text);
-    font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
-    line-height: 1.68;
-    font-size: 16px;
+    font-family: var(--font);
+    font-size: var(--fs-body);
+    line-height: var(--lh-body);
     background: var(--bg);
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -41,7 +53,7 @@ a:hover {
 }
 
 .site-header {
-    padding: 2rem 0 1.25rem;
+    padding: 2rem 0 1.15rem;
     border-bottom: 1px solid var(--border);
 }
 
@@ -53,21 +65,23 @@ a:hover {
 }
 
 .site-title {
-    font-size: 1.05rem;
+    font-size: 1.03rem;
     font-weight: 600;
     color: var(--text);
     white-space: nowrap;
+    letter-spacing: -0.01em;
 }
 
 .site-nav {
     display: flex;
     flex-wrap: wrap;
     gap: 1.25rem;
-    font-size: 0.98rem;
+    font-size: var(--fs-nav);
 }
 
 .site-nav a {
     color: var(--muted);
+    font-weight: 500;
 }
 
 .site-nav a.active {
@@ -79,28 +93,37 @@ a:hover {
 }
 
 .page-title {
-    font-size: 2rem;
-    line-height: 1.15;
-    margin: 0 0 1.5rem;
+    font-size: var(--fs-title);
+    line-height: var(--lh-tight);
+    margin: 0 0 1.45rem;
     font-weight: 600;
-    letter-spacing: -0.02em;
+    letter-spacing: -0.03em;
 }
 
 .page p {
     margin: 0 0 1.1rem;
+    max-width: 68ch;
+}
+
+.page>p:first-of-type {
+    margin-top: 0;
+    font-size: 1.04rem;
 }
 
 .page h2 {
-    font-size: 1.15rem;
-    margin: 2.5rem 0 0.85rem;
+    font-size: var(--fs-h2);
+    line-height: var(--lh-tight);
+    margin: 2.4rem 0 0.85rem;
     font-weight: 600;
-    letter-spacing: -0.01em;
+    letter-spacing: -0.02em;
 }
 
 .page h3 {
-    font-size: 1rem;
-    margin: 1.6rem 0 0.5rem;
+    font-size: var(--fs-h3);
+    line-height: var(--lh-tight);
+    margin: 1.6rem 0 0.55rem;
     font-weight: 600;
+    letter-spacing: -0.01em;
 }
 
 .page hr {
@@ -112,17 +135,55 @@ a:hover {
 .page ul {
     padding-left: 1.15rem;
     margin: 0 0 1.1rem;
+    max-width: 68ch;
+}
+
+.page section {
+    margin: 0 0 2.2rem;
+}
+
+.page section+section {
+    padding-top: 1.8rem;
+    border-top: 1px solid var(--border);
+}
+
+.entry {
+    margin: 0 0 1.4rem;
+}
+
+.entry-title {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin: 0 0 0.15rem;
+}
+
+.entry-meta {
+    color: var(--muted);
+    font-size: 0.94rem;
+    margin: 0 0 0.45rem;
+}
+
+.entry-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.9rem;
+    font-size: 0.96rem;
+    margin-top: 0.2rem;
 }
 
 .page li {
     margin: 0.35rem 0;
 }
 
+.page strong {
+    font-weight: 600;
+}
+
 .site-footer {
     border-top: 1px solid var(--border);
     padding: 1.25rem 0 2rem;
     color: var(--muted);
-    font-size: 0.95rem;
+    font-size: 0.94rem;
 }
 
 .site-footer p {
@@ -141,15 +202,14 @@ a:hover {
     }
 
     .page-title {
-        font-size: 1.7rem;
+        font-size: 1.62rem;
     }
 
     .site-nav {
         gap: 0.75rem 1rem;
     }
-}
 
-.page>p:first-of-type {
-    margin-top: 0;
-    font-size: 1.05rem;
+    .container {
+        padding: 0 1.25rem;
+    }
 }

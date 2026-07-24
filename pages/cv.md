@@ -8,10 +8,12 @@ permalink: /cv/
 
 ## Employment
 
-## Research interests
+## Research Interests
 
 ## Presentations
 
 ## Teaching
 
-A PDF version of the CV can be linked here once it is ready.
+## Downloads
+
+PDF CV will be linked here once ready.
