@@ -4,16 +4,171 @@ title: CV
 permalink: /cv/
 ---
 
-## Education
+[Download CV (PDF)](/assets/files/CV_Sebastian_Ahlstich.pdf)
 
-## Employment
+<section class="cv-section">
+  <h2>Education</h2>
 
-## Research Interests
+  <div class="cv-entry">
+    <div class="cv-year">2023–present</div>
+    <div class="cv-body">
+      <div><strong>PhD in International Economics, Government, and Business</strong></div>
+      <div>Copenhagen Business School</div>
 
-## Presentations
+      <div class="cv-label">Dissertation</div>
+      <div>Beneficial but Imperfectly Used: On the Utilization of Preferential Trade Agreements</div>
 
-## Teaching
+      <div class="cv-label">Supervisors</div>
+      <div>Ari Kokko · Jan Stuckatz · Patrik Tingvall</div>
+    </div>
+  </div>
 
-## Downloads
+  <div class="cv-entry">
+    <div class="cv-year">2021</div>
+    <div class="cv-body">
+      <div><strong>MSc Economics</strong></div>
+      <div>Humboldt University Berlin</div>
 
-PDF CV will be linked here once ready.
+    </div>
+  </div>
+</section>
+
+<section class="cv-section">
+  <h2>Grants & Funding</h2>
+
+  <div class="cv-entry">
+    <div class="cv-year">2025–2026</div>
+    <div class="cv-body">
+      <div><strong>Unlocking the Potential of Preferential Trade Agreements</strong></div>
+      <div>Principal Investigator</div>
+      <div>Innovation Fund Denmark · DKK 1,496,231 (≈ USD 220,000)</div>
+    </div>
+  </div>
+</section>
+
+<section class="cv-section">
+  <h2>Invited Talks</h2>
+
+  <h3 class="cv-subheading">Academic</h3>
+  <div class="cv-entry cv-entry-tight">
+  <div class="cv-year">2026</div>
+  <div class="cv-body">
+    <div>IPE Seminar · MIT</div>
+    <div>IR Seminar · Harvard University</div>
+    <div>University of British Columbia</div>
+    <div>University of Texas at Austin</div>
+    <div>George Washington University</div>
+  </div>
+</div>
+
+  <h3 class="cv-subheading">Policy & Industry</h3>
+
+  <div class="cv-entry">
+  <div class="cv-year">2026</div>
+  <div class="cv-body">
+    <div>Canadian Society of Customs Brokers National Conference · Ottawa, Canada</div>
+    <div>International Compliance Professionals Association Conference · Toronto, Canada</div>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-year">2025</div>
+  <div class="cv-body">
+    <div>AP Møller Maersk – Customs Client Forum · Copenhagen, Denmark</div>
+    <div>European Free Trade Association (EFTA) · Geneva, Switzerland</div>
+  </div>
+</div>    
+  
+<div class="cv-entry">
+  <div class="cv-year">2024</div>
+  <div class="cv-body">
+    <div>Volvo Cars · Gothenburg, Sweden</div>
+    <div>AP Møller Maersk – Customs Client Forum · Copenhagen, Denmark</div>
+  </div>
+</div>    
+
+</section>
+
+<section class="cv-section">
+  <h2>Teaching Experience</h2>
+
+  <div class="cv-entry">
+    <div class="cv-year">2023–2024</div>
+    <div class="cv-body">
+      <div>Research Design and Quantitative Methods I</div>
+      <div class="cv-meta">BSc in Business Administration and Sociology · Copenhagen Business School</div>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-year">2023</div>
+    <div class="cv-body">
+      <div>Business and European Governance</div>
+      <div class="cv-meta">BSc in European Business · Copenhagen Business School</div>
+    </div>
+  </div>
+</section>
+
+<section class="cv-section">
+  <h2>Professional Experience</h2>
+
+  <div class="cv-entry">
+    <div class="cv-year">2024–2025</div>
+    <div class="cv-body">
+      <div>Affiliated Researcher</div>
+      <div class="cv-meta">National Board of Trade Sweden (Kommerskollegium) · Stockholm</div>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-year">2022</div>
+    <div class="cv-body">
+      <div>Trade &amp; Economics Section</div>
+      <div class="cv-meta">EU Delegation to Switzerland and Liechtenstein · European External Action Service · Bern</div>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-year">2022</div>
+    <div class="cv-body">
+      <div>Risk Management</div>
+      <div class="cv-meta">Deutsche Börse Group · Financial Talent Programme · Luxembourg</div>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-year">2015–2019</div>
+    <div class="cv-body">
+      <div>Dual Course of Studies</div>
+      <div class="cv-meta">UniCredit Bank AG · Treasury · Munich</div>
+    </div>
+  </div>
+</section>
+
+<section class="cv-section">
+  <h2>Awards</h2>
+
+  <div class="cv-entry cv-entry-tight">
+    <div class="cv-year">2023–2024</div>
+    <div class="cv-body">
+      <div>Adam Smith Fellowship · Mercatus Center at George Mason University · USD 5,000</div>
+    </div>
+  </div>
+
+  <div class="cv-entry cv-entry-tight">
+    <div class="cv-year">2023</div>
+    <div class="cv-body">
+      <div>Fee Waiver · I.S.E.O Summer School · EUR 1,800 </div>
+    </div>
+  </div>
+</section>
+
+<section class="cv-section">
+  <h2>Skills</h2>
+
+  <h3 class="cv-subheading">Languages</h3>
+  <p class="cv-line">German (native) · English (fluent) · Italian (fluent) · French (fluent) · Danish (advanced)</p>
+
+  <h3 class="cv-subheading">Software</h3>
+  <p class="cv-line">R · Stata · MATLAB · LaTeX · MySQL · PostgreSQL · SQLite</p>
+</section>
