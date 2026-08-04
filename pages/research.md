@@ -8,10 +8,11 @@ description: Current working papers, publications, and outreach on international
 
 <section class="research-section">
   <h2>Current Working Papers</h2>
-{% assign papers = site.research | sort: "order" | reverse %}
-{% for paper in papers %}
-  {% include research_entry.html paper=paper %}
-{% endfor %}
+
+  {% assign papers = site.research | sort: "order" %}
+  {% for paper in papers %}
+    {% include research_entry.html paper=paper %}
+  {% endfor %}
 </section>
 
 <section class="research-section">
@@ -19,12 +20,10 @@ description: Current working papers, publications, and outreach on international
   <p class="section-note">Peer-reviewed publications will be listed here.</p>
 </section>
 
-
 <section class="research-section">
   <h2>Outreach</h2>
 
-  {% assign outreach = site.outreach | sort: "order" | reverse %}
-
+  {% assign outreach = site.outreach | sort: "order" %}
   {% for item in outreach %}
     {% include outreach_entry.html item=item %}
   {% endfor %}
