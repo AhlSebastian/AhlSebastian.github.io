@@ -53,6 +53,7 @@ description: Academic curriculum vitae of Sebastian Lukas Ahlstich.
 
  <h3 class="cv-subheading">Academic Seminars</h3>
 
+<!--
 <div class="cv-entry cv-entry-tight">
 
   <div class="cv-year">
@@ -68,6 +69,7 @@ description: Academic curriculum vitae of Sebastian Lukas Ahlstich.
   </div>
 
 </div>
+-->
 
 <div class="cv-entry cv-entry-tight">
 
