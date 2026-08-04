@@ -8,7 +8,7 @@ description: Current working papers, publications, and outreach on international
 
 <section class="research-section">
   <h2>Current Working Papers</h2>
-
+{% assign papers = site.research | sort: "order" %}
   {% for paper in site.research %}
     {% include research_entry.html paper=paper %}
   {% endfor %}
