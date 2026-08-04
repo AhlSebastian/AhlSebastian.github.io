@@ -2,6 +2,8 @@
 layout: page
 title: Contact
 permalink: /contact/
+
+description: Contact information for Sebastian Lukas Ahlstich.
 ---
 
 [sa.egb@cbs.dk](mailto:sa.egb@cbs.dk)

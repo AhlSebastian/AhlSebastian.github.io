@@ -2,7 +2,9 @@
 layout: page
 title: About
 permalink: /
-body_class: about
+show_title: true
+
+description: PhD Fellow at Copenhagen Business School researching international trade, preferential trade agreements, and border institutions.
 ---
 
 I am a PhD Fellow at the Department of International Economics, Government, and Business at Copenhagen Business School. My research focuses on international trade, preferential trade agreements, and the interactions between firms and border institutions. Using detailed trade data and applied microeconometric methods, I study how firms navigate trade policy, customs procedures, and border regulations, and how these interactions shape trade, compliance, and economic outcomes.

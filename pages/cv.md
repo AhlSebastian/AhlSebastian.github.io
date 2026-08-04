@@ -2,6 +2,8 @@
 layout: page
 title: CV
 permalink: /cv/
+
+description: Academic curriculum vitae of Sebastian Lukas Ahlstich.
 ---
 
 [Download CV (PDF)](/assets/files/CV_Sebastian_Ahlstich.pdf)

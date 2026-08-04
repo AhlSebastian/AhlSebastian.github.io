@@ -2,6 +2,8 @@
 layout: page
 title: Research
 permalink: /research/
+
+description: Current working papers, publications, and outreach on international trade and preferential trade agreements.
 ---
 
 <section class="research-section">
