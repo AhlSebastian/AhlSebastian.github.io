@@ -10,3 +10,12 @@ defaults:
       path: ""
     values:
       layout: page
+
+
+collections:
+  research:
+    output: false
+    sort_by: order
+  outreach:
+    output: false
+    sort_by: order

@@ -49,16 +49,54 @@ permalink: /cv/
 <section class="cv-section">
   <h2>Invited Talks</h2>
 
-  <h3 class="cv-subheading">Academic</h3>
-  <div class="cv-entry cv-entry-tight">
-  <div class="cv-year">2026</div>
-  <div class="cv-body">
-    <div>IPE Seminar · MIT</div>
-    <div>IR Seminar · Harvard University</div>
-    <div>University of British Columbia</div>
-    <div>University of Texas at Austin</div>
-    <div>George Washington University</div>
+ <h3 class="cv-subheading">Academic Seminars</h3>
+
+<div class="cv-entry cv-entry-tight">
+
+  <div class="cv-year">
+    2026
   </div>
+
+  <div class="cv-body">
+
+    <div>
+      MIT (Political Science) · Harvard University (Government) · University of British Columbia (Public Policy and Global Affairs) · University of Texas at Austin (Government) · George Washington University (Political Science)
+    </div>
+
+  </div>
+
+</div>
+
+<div class="cv-entry cv-entry-tight">
+
+  <div class="cv-year">
+    2024
+  </div>
+
+  <div class="cv-body">
+
+    <div>
+      Investment, Trade and Geo-economic Challenges Workshop (Sino-Danish Research Centre, Beijing)
+    </div>
+
+  </div>
+
+</div>
+
+<div class="cv-entry cv-entry-tight">
+
+  <div class="cv-year">
+    2023
+  </div>
+
+  <div class="cv-body">
+
+    <div>
+      Investment, Trade and Geo-economic Challenges Workshop (Sino-Danish Research Centre, Beijing)
+    </div>
+
+  </div>
+
 </div>
 
   <h3 class="cv-subheading">Policy & Industry</h3>
@@ -67,7 +105,7 @@ permalink: /cv/
   <div class="cv-year">2026</div>
   <div class="cv-body">
     <div>Canadian Society of Customs Brokers National Conference · Ottawa, Canada</div>
-    <div>International Compliance Professionals Association Conference · Toronto, Canada</div>
+    <div>International Compliance Professionals Association Canada Conference · Toronto, Canada</div>
   </div>
 </div>
 
@@ -82,7 +120,7 @@ permalink: /cv/
 <div class="cv-entry">
   <div class="cv-year">2024</div>
   <div class="cv-body">
-    <div>Volvo Cars · Gothenburg, Sweden</div>
+    <div>Volvo Cars A/B · Gothenburg, Sweden</div>
     <div>AP Møller Maersk – Customs Client Forum · Copenhagen, Denmark</div>
   </div>
 </div>    
@@ -115,20 +153,12 @@ permalink: /cv/
   <div class="cv-entry">
     <div class="cv-year">2024–2025</div>
     <div class="cv-body">
-      <div>Affiliated Researcher</div>
-      <div class="cv-meta">National Board of Trade Sweden (Kommerskollegium) · Stockholm</div>
+      <div>Department for Economic Analysis</div>
+      <div class="cv-meta">National Board of Trade Sweden (Kommerskollegium) · Affiliated Researcher · Stockholm</div>
     </div>
   </div>
 
-  <div class="cv-entry">
-    <div class="cv-year">2022</div>
-    <div class="cv-body">
-      <div>Trade &amp; Economics Section</div>
-      <div class="cv-meta">EU Delegation to Switzerland and Liechtenstein · European External Action Service · Bern</div>
-    </div>
-  </div>
-
-  <div class="cv-entry">
+<div class="cv-entry">
     <div class="cv-year">2022</div>
     <div class="cv-body">
       <div>Risk Management</div>
@@ -137,10 +167,19 @@ permalink: /cv/
   </div>
 
   <div class="cv-entry">
+    <div class="cv-year">2022</div>
+    <div class="cv-body">
+      <div>Trade &amp; Economics  Section</div>
+      <div class="cv-meta">EU Delegation to Switzerland and Liechtenstein · EEAS Traineeship · Bern</div>
+    </div>
+  </div>
+
+
+  <div class="cv-entry">
     <div class="cv-year">2015–2019</div>
     <div class="cv-body">
-      <div>Dual Course of Studies</div>
-      <div class="cv-meta">UniCredit Bank AG · Treasury · Munich</div>
+      <div>Short-Term Liquidity Management and Treasury</div>
+      <div class="cv-meta">UniCredit Bank AG · Dual Course of Studies Programme · Munich, New York City</div>
     </div>
   </div>
 </section>

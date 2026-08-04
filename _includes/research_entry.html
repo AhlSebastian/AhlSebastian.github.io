@@ -1,0 +1,46 @@
+<article class="entry">
+    <h3 class="entry-title">{{ paper.title }}</h3>
+
+    {% if paper.coauthors and paper.coauthors.size > 0 %}
+    <p class="entry-coauthors">with {{ paper.coauthors | join: ' · ' }}</p>
+    {% else %}
+    <p class="entry-coauthors entry-placeholder">&nbsp;</p>
+    {% endif %}
+
+    <div class="entry-links">
+        <details class="abstract-toggle">
+            <summary>Abstract</summary>
+        </details>
+
+        {% if paper.pdf %}
+        <span class="divider">·</span>
+        <a href="{{ paper.pdf }}" target="_blank" rel="noopener">PDF</a>
+        {% endif %}
+
+        {% if paper.github %}
+        <span class="divider">·</span>
+        <a href="{{ paper.github }}" target="_blank" rel="noopener">GitHub</a>
+        {% endif %}
+
+        {% if paper.data %}
+        <span class="divider">·</span>
+        <a href="{{ paper.data }}" target="_blank" rel="noopener">Data</a>
+        {% endif %}
+
+        <span class="divider">·</span>
+        <details class="bibtex-toggle">
+            <summary>BibTeX</summary>
+        </details>
+
+        <div class="abstract">
+            <p>{{ paper.abstract | strip }}</p>
+        </div>
+
+        <div class="bibtex-block">
+            <div class="bibtex-toolbar">
+                <button type="button" class="copy-bibtex">Copy</button>
+            </div>
+            <pre><code>{{ paper.bibtex | escape }}</code></pre>
+        </div>
+    </div>
+</article>

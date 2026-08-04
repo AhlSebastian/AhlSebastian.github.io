@@ -1,0 +1,17 @@
+<article class="entry">
+    <h3 class="entry-title">{{ item.title }}</h3>
+
+    {% if item.coauthors and item.coauthors.size > 0 %}
+    <p class="entry-coauthors">with {{ item.coauthors | join: ' · ' }}</p>
+    {% else %}
+    <p class="entry-coauthors entry-placeholder">&nbsp;</p>
+    {% endif %}
+
+    <p class="entry-meta">
+        {{ item.outlet }} · {{ item.display_date }}
+    </p>
+
+    <div class="entry-links">
+        <a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.action_label }}</a>
+    </div>
+</article>
