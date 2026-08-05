@@ -1,10 +1,9 @@
-<article class="entry">
+<article
+    class="entry {% if paper.coauthors and paper.coauthors.size > 0 %}entry-has-coauthors{% else %}entry-solo{% endif %}">
     <h3 class="entry-title">{{ paper.title }}</h3>
 
     {% if paper.coauthors and paper.coauthors.size > 0 %}
     <p class="entry-coauthors">with {{ paper.coauthors | join: ' · ' }}</p>
-    {% else %}
-    <p class="entry-coauthors entry-placeholder">&nbsp;</p>
     {% endif %}
 
     <div class="entry-links">

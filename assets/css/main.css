@@ -4,6 +4,7 @@
     --navy: #406a8f;
     --muted: #6d6d6d;
     --border: #ddd9d2;
+    --accent: #8c1d40;
 
     --max: 760px;
 
@@ -152,7 +153,7 @@ a:hover {
 }
 
 .entry {
-    margin: 0 0 2.2rem;
+    margin: 0 0 2rem;
 }
 
 .entry-title {
@@ -164,7 +165,7 @@ a:hover {
 }
 
 .entry-coauthors {
-    margin: 0.08rem 0 0.4rem;
+    margin: 0.08rem 0 0.25rem;
     color: var(--muted);
     font-size: 0.94rem;
 }
@@ -180,7 +181,7 @@ a:hover {
     flex-wrap: wrap;
     align-items: baseline;
     gap: 0.35rem;
-    margin-top: 0.22rem;
+    margin-top: 0.1rem;
     font-size: 0.96rem;
 }
 
@@ -198,24 +199,12 @@ a:hover {
     text-underline-offset: 0.18em;
 }
 
-.entry+.entry {
-    position: relative;
-    margin-top: 1.9rem;
-    padding-top: 1.9rem;
+.entry-has-coauthors .entry-links {
+    margin-top: 0.1rem;
 }
 
-.entry+.entry::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    width: 72%;
-    border-top: 1px solid var(--border);
-}
-
-.entry-placeholder {
-    visibility: hidden;
+.entry-solo .entry-links {
+    margin-top: 0.04rem;
 }
 
 details.abstract-toggle {
@@ -253,18 +242,19 @@ details.abstract-toggle[open]~.abstract {
     margin: 0 0 0.9rem;
 }
 
+.research-section {
+    margin-top: 3rem;
+}
+
 .research-section+.research-section {
-    margin-top: 4rem;
-    padding-top: 2.2rem;
     border-top: 1px solid var(--border);
+    padding-top: 2rem;
 }
 
 .research-section>h2 {
-    margin: 0 0 1.35rem;
-    font-size: 1.22rem;
-    line-height: var(--lh-tight);
+    margin: 0 0 1.5rem;
+    font-size: 1.2rem;
     font-weight: 600;
-    letter-spacing: -0.02em;
 }
 
 .section-note {
