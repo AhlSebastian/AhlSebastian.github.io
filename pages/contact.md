@@ -6,7 +6,8 @@ permalink: /contact/
 description: Contact information for Sebastian Lukas Ahlstich.
 ---
 
-[sa.egb@cbs.dk](mailto:sa.egb@cbs.dk)
+[sa.egb@cbs.dk](mailto:sa.egb@cbs.dk)  
++45 38 15 25 69
 
 Department of International Economics, Government, and Business  
 Copenhagen Business School

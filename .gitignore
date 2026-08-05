@@ -9,6 +9,7 @@ _site/
 
 # Ruby
 .bundle/
+vendor/
 
 # VS Code
 .vscode/
