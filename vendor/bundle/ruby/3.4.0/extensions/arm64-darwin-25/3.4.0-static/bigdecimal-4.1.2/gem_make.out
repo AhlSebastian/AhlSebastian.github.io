@@ -21,10 +21,10 @@ checking for RUBY_TYPED_EMBEDDABLE in ruby.h... yes
 creating Makefile
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-4.1.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20260914-31811-rnnpmz sitelibdir\=./.gem.20260914-31811-rnnpmz clean
+make DESTDIR\= sitearchdir\=./.gem.20260724-97091-gn2b3o sitelibdir\=./.gem.20260724-97091-gn2b3o clean
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-4.1.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20260914-31811-rnnpmz sitelibdir\=./.gem.20260914-31811-rnnpmz
+make DESTDIR\= sitearchdir\=./.gem.20260724-97091-gn2b3o sitelibdir\=./.gem.20260724-97091-gn2b3o
 compiling bigdecimal.c
 In file included from bigdecimal.c:11:
 In file included from ./bigdecimal.h:13:
@@ -53,8 +53,8 @@ In file included from /Users/sebastianahlstich/.rubies/ruby-3.4.1/include/ruby-3
 linking shared-object bigdecimal.bundle
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-4.1.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20260914-31811-rnnpmz sitelibdir\=./.gem.20260914-31811-rnnpmz install
-/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20260914-31811-rnnpmz
+make DESTDIR\= sitearchdir\=./.gem.20260724-97091-gn2b3o sitelibdir\=./.gem.20260724-97091-gn2b3o install
+/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20260724-97091-gn2b3o
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-4.1.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20260914-31811-rnnpmz sitelibdir\=./.gem.20260914-31811-rnnpmz clean
+make DESTDIR\= sitearchdir\=./.gem.20260724-97091-gn2b3o sitelibdir\=./.gem.20260724-97091-gn2b3o clean

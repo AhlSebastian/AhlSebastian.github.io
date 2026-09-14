@@ -228,7 +228,7 @@ In file included from /Users/sebastianahlstich/.rubies/ruby-3.4.1/include/ruby-3
 ld: warning: ignoring duplicate libraries: '-lpthread'
 Undefined symbols for architecture arm64:
   "_ruby_xfree_sized", referenced from:
-      _t in conftest-a0d678.o
+      _t in conftest-eade34.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
