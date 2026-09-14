@@ -3,10 +3,10 @@ current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Seb
 creating Makefile
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20260724-97091-m8ye60 sitelibdir\=./.gem.20260724-97091-m8ye60 clean
+make DESTDIR\= sitearchdir\=./.gem.20260914-31811-wm88ev sitelibdir\=./.gem.20260914-31811-wm88ev clean
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20260724-97091-m8ye60 sitelibdir\=./.gem.20260724-97091-m8ye60
+make DESTDIR\= sitearchdir\=./.gem.20260914-31811-wm88ev sitelibdir\=./.gem.20260914-31811-wm88ev
 compiling ruby_http_parser.c
 In file included from ruby_http_parser.c:1:
 In file included from /Users/sebastianahlstich/.rubies/ruby-3.4.1/include/ruby-3.4.0/ruby.h:38:
@@ -27,8 +27,8 @@ compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.bundle
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20260724-97091-m8ye60 sitelibdir\=./.gem.20260724-97091-m8ye60 install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260724-97091-m8ye60
+make DESTDIR\= sitearchdir\=./.gem.20260914-31811-wm88ev sitelibdir\=./.gem.20260914-31811-wm88ev install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260914-31811-wm88ev
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20260724-97091-m8ye60 sitelibdir\=./.gem.20260724-97091-m8ye60 clean
+make DESTDIR\= sitearchdir\=./.gem.20260914-31811-wm88ev sitelibdir\=./.gem.20260914-31811-wm88ev clean

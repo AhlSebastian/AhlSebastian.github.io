@@ -243,7 +243,7 @@ In file included from /Users/sebastianahlstich/.rubies/ruby-3.4.1/include/ruby-3
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lpthread', '-lssl'
 Undefined symbols for architecture arm64:
   "_rb_thread_blocking_region", referenced from:
-      _t in conftest-75a5c5.o
+      _t in conftest-a78fe8.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -492,7 +492,7 @@ In file included from /Users/sebastianahlstich/.rubies/ruby-3.4.1/include/ruby-3
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lpthread', '-lssl'
 Undefined symbols for architecture arm64:
   "_rb_enable_interrupt", referenced from:
-      _t in conftest-ad5d1c.o
+      _t in conftest-c87efb.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -756,7 +756,7 @@ In file included from /Users/sebastianahlstich/.rubies/ruby-3.4.1/include/ruby-3
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lpthread', '-lssl'
 Undefined symbols for architecture arm64:
   "_pipe2", referenced from:
-      _t in conftest-b0ee8a.o
+      _t in conftest-e3dff4.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -836,7 +836,7 @@ In file included from /Users/sebastianahlstich/.rubies/ruby-3.4.1/include/ruby-3
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lpthread', '-lssl'
 Undefined symbols for architecture arm64:
   "_accept4", referenced from:
-      _t in conftest-3b8022.o
+      _t in conftest-f75139.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

@@ -14,10 +14,10 @@ checking for cpuid.h... no
 creating Makefile
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.21.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20260724-97091-wxp75a sitelibdir\=./.gem.20260724-97091-wxp75a clean
+make DESTDIR\= sitearchdir\=./.gem.20260914-31811-a2ocxs sitelibdir\=./.gem.20260914-31811-a2ocxs clean
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.21.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20260724-97091-wxp75a sitelibdir\=./.gem.20260724-97091-wxp75a
+make DESTDIR\= sitearchdir\=./.gem.20260914-31811-a2ocxs sitelibdir\=./.gem.20260914-31811-a2ocxs
 compiling parser.c
 In file included from parser.c:1:
 In file included from ./../json.h:4:
@@ -35,8 +35,8 @@ In file included from /Users/sebastianahlstich/.rubies/ruby-3.4.1/include/ruby-3
 linking shared-object json/ext/parser.bundle
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.21.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20260724-97091-wxp75a sitelibdir\=./.gem.20260724-97091-wxp75a install
-/usr/bin/install -c -m 0755 parser.bundle ./.gem.20260724-97091-wxp75a/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20260914-31811-a2ocxs sitelibdir\=./.gem.20260914-31811-a2ocxs install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20260914-31811-a2ocxs/json/ext
 
 current directory: /Users/sebastianahlstich/Library/CloudStorage/Dropbox-CBS/Sebastian Ahlstich/webpage/AhlSebastian.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.21.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20260724-97091-wxp75a sitelibdir\=./.gem.20260724-97091-wxp75a clean
+make DESTDIR\= sitearchdir\=./.gem.20260914-31811-a2ocxs sitelibdir\=./.gem.20260914-31811-a2ocxs clean
