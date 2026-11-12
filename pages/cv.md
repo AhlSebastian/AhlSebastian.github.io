@@ -39,6 +39,16 @@ description: Academic curriculum vitae of Sebastian Lukas Ahlstich.
   <h2>Grants & Funding</h2>
 
   <div class="cv-entry">
+    <div class="cv-year">2027–2029</div>
+    <div class="cv-body">
+      <div><strong>(Re-)Classification in International Trade</strong></div>
+      <div>Co-Principal Investigator</div>
+      <div>Independent Research Fund Denmark · DKK 3,208,529 (≈ USD 476,000)</div>
+    </div>
+  </div>
+
+
+  <div class="cv-entry">
     <div class="cv-year">2025–2026</div>
     <div class="cv-body">
       <div><strong>Unlocking the Potential of Preferential Trade Agreements</strong></div>
